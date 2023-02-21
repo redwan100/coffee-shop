@@ -6,6 +6,7 @@
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
+## live link
+https://redwan100.github.io/coffee-shop/
 
 ![preview img](/preview.png)
